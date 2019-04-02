@@ -20,3 +20,9 @@ cd time-series-chart
 npm start
 ```
 http://localhost:3000 to open the app.
+
+3. Create data to graph:
+```
+cd scripts
+node data-generator.js
+```
